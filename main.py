@@ -19,7 +19,6 @@ html = f'''
             <li>{random.randint(1, 5)}</li>
             <li>{random.randint(1, 5)}</li>
         </ol>
-
         '''
 
 app = Flask(__name__)
